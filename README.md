@@ -24,3 +24,13 @@ Here are the metrics and graphs extracted directly from the training notebook ru
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
 
+
+
+## Overall Evaluation Metrics
+
+| Metric | Value | Percentage |
+| :--- | :--- | :--- |
+| **Precision** | `0.6338523714338097` | **63.39%** |
+| **Recall** | `0.597369218804958` | **59.74%** |
+| **mAP50** | `0.6578420829555369` | **65.78%** |
+| **mAP50-95** | `0.5126261910795937` | **51.26%** |
